@@ -2,3 +2,22 @@ body {
   background:
     url(images/bsg-background.png);
 }
+
+
+.player1InputHeading, .player2InputHeading {
+  color: white;
+  text-shadow: 2px 2px black;
+  font-size: 2em;
+  margin-top: 2em;
+}
+
+
+.player1Input, .player2Input {
+  width: 50%;
+}
+
+.saveNameButton {
+  height: 5em;
+  width: 70%;
+  margin-top: 4em;
+}
